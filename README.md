@@ -1,5 +1,15 @@
 # 🏦 Customer Churn Analysis & Retention Strategy Dashboard
+An end-to-end data analytics project built using SQL, Microsoft Excel, and Tableau to identify customer churn patterns, quantify revenue exposure, and develop data-driven retention strategies.
 
+The project analyzes a banking customer dataset containing 10,000 customer records and transforms raw customer information into actionable business insights through KPI development, risk segmentation, churn analysis, and executive dashboards.
+
+Key Outcomes
+
+* Identified customer segments with the highest churn risk.
+* Quantified revenue exposure from customer attrition.
+* Ranked major churn drivers affecting customer retention.
+* Developed retention opportunity categories for targeted intervention.
+* Designed executive dashboards for strategic decision-making.
 ### Interactive Dashboard
 
 Tableau Public Dashboard:  
