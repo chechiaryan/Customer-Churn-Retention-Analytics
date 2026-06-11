@@ -266,6 +266,19 @@ This analytics solution enables stakeholders to:
 
 ---
 
+## 💡 Business Impact
+
+This solution enables banking stakeholders to:
+
+- Reduce customer attrition through targeted retention strategies.
+- Prioritize high-value customers requiring immediate intervention.
+- Quantify revenue at risk from churned customers.
+- Identify the strongest drivers influencing customer churn.
+- Improve customer lifetime value through proactive engagement.
+- Support executive decision-making using KPI-driven dashboards.
+
+---
+
 # 👨‍💻 Author
 
 ## Aryan Chechi
